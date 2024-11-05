@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW%20in%20AWS/mlruns/0/df6653818a854bd8b289ec4d312fd236/artifacts
+end_time: 1730765064875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df6653818a854bd8b289ec4d312fd236
+run_name: invincible-zebra-698
+run_uuid: df6653818a854bd8b289ec4d312fd236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730765064796
+status: 3
+tags: []
+user_id: Ganesh Mahadev

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW%20in%20AWS/mlruns/0/7abe04a311ab45b586a1e7e7148462f8/artifacts
+end_time: 1730764669227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7abe04a311ab45b586a1e7e7148462f8
+run_name: rare-skunk-495
+run_uuid: 7abe04a311ab45b586a1e7e7148462f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730764669121
+status: 3
+tags: []
+user_id: Ganesh Mahadev
